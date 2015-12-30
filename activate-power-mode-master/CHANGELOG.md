@@ -10,3 +10,4 @@ Related PR: https://github.com/JoelBesada/activate-power-mode/pull/76
 * Minor cosmetic changes to the particle effect.
 * Added screen shake config.
 * Added particle config.
+akjnaskjca
